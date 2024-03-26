@@ -8,7 +8,7 @@ export default {
    
     extend: {
       colors : {
-        azure : "#F0FFFF",
+        columbia : "#B9D9EB",
         
 
         

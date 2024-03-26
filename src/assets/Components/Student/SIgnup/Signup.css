@@ -1,0 +1,18 @@
+.container {
+   
+    background-image: url('https://images.unsplash.com/photo-1519682337058-a94d519337bc?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'); /* Specify the image URL */
+   
+  }
+  
+  .overlay {
+    
+    background-color: rgba(255, 255, 255, 0.7); /* Adjust opacity here */
+  }
+  .input-style{border-radius: 10px;
+    border-radius: 26px;
+    background: #E1EBEE;
+    box-shadow: inset -5px 5px 18px #c6cfd1,
+                inset 5px -5px 18px #fcffff;
+
+}
+
